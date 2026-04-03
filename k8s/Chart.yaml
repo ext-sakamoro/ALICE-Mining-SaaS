@@ -1,5 +1,5 @@
 apiVersion: v2
-name: ALICE_MINING
+name: alice-mining
 description: ALICE Mining
 type: application
 version: 0.1.0
